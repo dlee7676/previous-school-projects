@@ -1,0 +1,1 @@
+This repo contains older course projects related to multimedia applications.  The "Morpher" folder contains code for a program that creates the visual effect of warping one image into another, and the "Project3931" folder contains code for a basic sound file editor.
